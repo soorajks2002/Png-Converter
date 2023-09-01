@@ -1,6 +1,5 @@
 from rembg import remove
 import cv2
-import matplotlib.pyplot as plt
 
 input_path = 'input.jpg'
 output_path = 'output.png'
